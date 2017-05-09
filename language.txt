@@ -1,0 +1,31 @@
+Please choose language(Enter the Numbers)
+1.中文
+2.ENGLISH
+3.日本语
+4.DEUTSCH
+5.FRANCAIS
+中文  // 7
+请输入要训练的题数
+恭喜，答对了
+错误，正确答案为
+你答对的题目数为
+英语 //12
+Please enter the number of questions to train
+Congratulations , that's right
+wrong ,The correct answer is 
+The number of questions you answered correctly is 
+日语  //17
+訓練の問題数を入力してください 
+おめでとうございます
+間違い、正しい答えは 
+あなたが正解したタイトル数は 
+德语  //22
+Bitte geben sie die ANZAHL DER Ausbildung MIT DEM titel 
+Herzlichen glückwunsch, bingo 
+Für Fehler, die richtige antwort  
+Sie haben für die ANZAHL von Fragen 
+法语  //27
+Saisissez le nombre de questions de formation 
+Félicitations, Bingo 
+Erreur, la bonne réponse 
+Tu as raison pour le nombre de sujets 
